@@ -1,3 +1,10 @@
+# Settings Locale
+.claude/settings.local.json
+
+# Cloned repos
+keyboard/
+.claude/skills/
+
 # Logs
 logs
 *.log
