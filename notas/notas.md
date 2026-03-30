@@ -6,6 +6,7 @@ openrouter/free
 
 qwen/qwen3-coder:free
 
+# Prompts
 
 - copia este repositorio en mi proyecto: https://github.com/Leonxlnx/taste-skill en la carpeta skills
 - crea un sitio web para vender un teclado. Usa tu skill de design-taste-frontend. Te doy una breve descripcion: se tratan de teclados mecanicos elegantes y minimalistas. Al estilo Apple.
